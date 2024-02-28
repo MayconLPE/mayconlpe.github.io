@@ -2770,14 +2770,14 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #212529;
-  background-color: #ff7a57;
-  border-color: #ff7a57;
+  background-color: #01ac8f;
+  border-color: #01ac8f;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #ff5c31;
-  border-color: #ff5224;
+  background-color: #0a6657;
+  border-color: #076df1;
 }
 
 .btn-primary:focus, .btn-primary.focus {
